@@ -1,8 +1,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
-    let tbcLabel = UILabel()
+    private let tbcLabel = UILabel()
 
     override func viewDidLoad() {
         super.viewDidLoad()
